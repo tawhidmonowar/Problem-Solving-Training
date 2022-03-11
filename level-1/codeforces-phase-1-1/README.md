@@ -4,13 +4,13 @@
 
 ### Table of Content
 
-- ***Basic Operator*** `15 problems`
+- ***Basic Operator*** `16 problems`
 - ***Condition***      `15 problems`
 - ***Loop***           `35 problems`
 - ***String***         `35 problems`
 - ***List / Array***   `60 problems`
 
-### Codeforces - Basic Operator `15 problems`
+### Codeforces - Basic Operator `16 problems`
 
 - CF-Round 340: https://codeforces.com/problemset/problem/617/A
 - CF-Round 304: https://codeforces.com/problemset/problem/546/A
@@ -27,6 +27,7 @@
 - CF-Round 456: https://codeforces.com/problemset/problem/912/A
 - CF-Round 47: https://codeforces.com/problemset/problem/50/A
 - CF-Round 9: https://codeforces.com/problemset/problem/9/A
+- CF-Round 1651: https://codeforces.com/contest/1651/problem/A
 
 ### Codeforces - Condition `15 problems`
 
